@@ -3,13 +3,18 @@ Index page
 
 Contents: 
 
+### Links to access team resources:
+* Team's slack link [slack](https://columbia-gis.slack.com/messages/C6KAN2VMY/)
+* Team's vsts Kanban board [kanban](https://columbia1938.visualstudio.com/GCX-DTC%20Data%20and%20Analytics/_backlogs/taskboard/GCX-DTC%20Data%20and%20Analytics%5CSprint%200?_a=people)
+* Team's gitlab repo [gitlab](http://gitlab/grp/odp/)
+
 .. _subheading1:
 
 .. toctree::
    :maxdepth: 2
    :glob:
    :caption: Caption 1
-   :includehidden:
+   :hidden:
 
    md4
    renamed heading <md2>
