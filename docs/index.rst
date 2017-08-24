@@ -9,6 +9,7 @@ Contents:
    :maxdepth: 2
    :glob:
    :caption: Caption 1
+   :includehidden:
 
    md4
    md2
