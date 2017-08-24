@@ -10,7 +10,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   :caption: subheading1
+   :caption: Caption 1
 
    md1
    md2
@@ -22,7 +22,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   :caption: subheading2
+   :caption: Caption 2
 
    subheading2/sh2
    subheading2/sh1
