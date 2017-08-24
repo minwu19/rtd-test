@@ -9,7 +9,7 @@ Contents:
 .. _subheading1:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Caption 1
 
    md1
@@ -21,7 +21,7 @@ Contents:
 .. _subheading2:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Caption 2
 
    subheading2/sh2
