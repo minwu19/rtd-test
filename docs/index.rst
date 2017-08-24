@@ -6,10 +6,8 @@ Contents:
 Links to access team resources:
 
 `Slack <https://columbia-gis.slack.com/messages/C6KAN2VMY/>`_
-
-.. _a link: `kanban <https://columbia1938.visualstudio.com/GCX-DTC%20Data%20and%20Analytics/_backlogs/taskboard/GCX-DTC%20Data%20and%20Analytics%5CSprint%200?_a=people>`
-
-.. _a link: `gitlab <http://gitlab/grp/odp>`
+`Kanban <https://columbia1938.visualstudio.com/GCX-DTC%20Data%20and%20Analytics/_backlogs/taskboard/GCX-DTC%20Data%20and%20Analytics%5CSprint%200?_a=people>`_
+`Gitlab <http://gitlab/grp/odp>`_
 
 .. _subheading1:
 
