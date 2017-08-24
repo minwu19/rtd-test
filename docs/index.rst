@@ -12,7 +12,7 @@ Contents:
    :includehidden:
 
    md4
-   test rename <md2>
+   renamed heading <md2>
    subheading1/md3
    subheading1/md5
    *
