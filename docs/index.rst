@@ -3,9 +3,6 @@ Index page
 
 Contents: 
 
-* :ref:`subheading1`
-* :ref:`subheading2`
-
 .. _subheading1:
 
 .. toctree::
