@@ -1,8 +1,6 @@
 Index page
 ===========
 
-Contents: 
-
 Links to access team resources:
 
 `Slack <https://columbia-gis.slack.com/messages/C6KAN2VMY/>`_
