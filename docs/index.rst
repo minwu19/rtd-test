@@ -3,11 +3,9 @@ Index page
 
 Links to access team resources:
 
-`Slack <https://columbia-gis.slack.com/messages/C6KAN2VMY/>`_
-
-`Kanban <https://columbia1938.visualstudio.com/GCX-DTC%20Data%20and%20Analytics/_backlogs/taskboard/GCX-DTC%20Data%20and%20Analytics%5CSprint%200?_a=people>`_
-
-`Gitlab <http://gitlab/grp/odp>`_
+* `Slack <https://columbia-gis.slack.com/messages/C6KAN2VMY/>`_
+* `Kanban <https://columbia1938.visualstudio.com/GCX-DTC%20Data%20and%20Analytics/_backlogs/taskboard/GCX-DTC%20Data%20and%20Analytics%5CSprint%200?_a=people>`_
+* `Gitlab <http://gitlab/grp/odp>`_
 
 .. _subheading1:
 
