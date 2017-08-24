@@ -4,7 +4,7 @@ Index page
 Contents: 
 
 Links to access team resources:
-.. _a link: `slack <https://columbia-gis.slack.com/messages/C6KAN2VMY/>`
+.. _Slack: https://columbia-gis.slack.com/messages/C6KAN2VMY/
 .. _a link: `kanban <https://columbia1938.visualstudio.com/GCX-DTC%20Data%20and%20Analytics/_backlogs/taskboard/GCX-DTC%20Data%20and%20Analytics%5CSprint%200?_a=people>`
 .. _a link: `gitlab <http://gitlab/grp/odp>`
 
