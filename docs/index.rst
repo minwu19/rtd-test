@@ -11,6 +11,11 @@ Contents:
    :caption: Caption 1
    :includehidden:
 
+   md4
+   test rename <md2>
+   subheading1/md3
+   subheading1/md5
+   *
    
 .. _subheading2:
 
@@ -20,9 +25,4 @@ Contents:
    :glob:
    :caption: Caption 2
 
-   md4
-   md2
-   subheading1/md3
-   subheading1/md5
-   *
    subheading2/*
