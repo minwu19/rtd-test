@@ -21,6 +21,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
    :hidden:
+   :glob:
    :caption: Caption 2
 
    subheading2/*
