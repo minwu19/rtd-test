@@ -13,7 +13,6 @@ Links to access team resources:
    :maxdepth: -1
    :glob:
    :caption: Caption 1
-   :titles_only:
 
    md4
    renamed heading <md2>
