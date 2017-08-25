@@ -10,10 +10,10 @@ Links to access team resources:
 .. _subheading1:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: -1
    :glob:
    :caption: Caption 1
-   :hidden:
+   :titles_only:
 
    md4
    renamed heading <md2>
