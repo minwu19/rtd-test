@@ -9,7 +9,7 @@ Links to access team resources:
 
 .. _subheading1:
 
-.. toctree::
+.. toctree(Collapse=True)::
    :maxdepth: 2
    :glob:
    :caption: Caption 1
