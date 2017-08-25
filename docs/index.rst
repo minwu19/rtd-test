@@ -9,11 +9,12 @@ Links to access team resources:
 
 .. _subheading1:
 
-.. toctree(Collapse=True)::
+.. toctree::
    :maxdepth: 2
    :glob:
    :caption: Caption 1
    :hidden:
+   :collapse: False
 
    md4
    renamed heading <md2>
