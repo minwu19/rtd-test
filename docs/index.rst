@@ -14,7 +14,7 @@ Links to access team resources:
    :glob:
    :caption: Caption 1
    :hidden:
-   :collapse: False
+   :collapse:
 
    md4
    renamed heading <md2>
